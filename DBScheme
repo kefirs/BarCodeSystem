@@ -1,0 +1,43 @@
+1st Table
+Users
+	- User ID (Primary Key)
+	- Name
+	- Surname
+	- Email
+	- Password  (?)
+	- Role
+	- Department
+
+2nd Table
+Pallet label
+	- Pallet ID (Primary Key)
+	- Senders name
+	- Senders adress
+	- Recievers name
+	- Recievers adress
+	- Recievers contact person
+	- Count of pallets
+	- Bruto neto weigth (should be on bar code)
+	- Lot number (for bar code)
+	- Bar code
+Optional
+	- Warehouse sector
+	- shelf row
+	- shelf
+
+3rd Table
+Box label
+	- Box ID (Primary Key)
+	- Manufacturer name
+	- Lot name - product density
+	- Lot number
+	- Lot date of production
+	- Food or Non food item
+
+
+Description:
+	
+
+
+
+
